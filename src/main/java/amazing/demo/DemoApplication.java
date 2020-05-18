@@ -14,11 +14,11 @@ public class DemoApplication {
 		SpringApplication.run(DemoApplication.class, args);
 	}
                 
-        /*@GetMapping(
+        @GetMapping(
             value = "/api/message",
             produces = MediaType.APPLICATION_JSON_VALUE)
         public String message() {
 
             return "{\"Message\":\"Nice!\"}";
-        }*/
+        }
 }
