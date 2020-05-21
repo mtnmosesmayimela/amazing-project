@@ -11,12 +11,12 @@ class DemoApplicationTests {
 	void contextLoads() {
 	}
         
-        /*@Test
+        @Test
         public void testMain() {
           try {
             DemoApplication.main(new String[0]);
           } catch (Exception e) {
             fail("No exceptions should occur on startup.");
           }
-        }*/
+        }
 }
