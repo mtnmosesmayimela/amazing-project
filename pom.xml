@@ -63,6 +63,7 @@
                     <configuration>
                         <excludes>
                         </excludes>
+                        
                     </configuration>
                     <executions>
                         <execution>
