@@ -26,7 +26,7 @@ class DemoApplicationTests {
         {
             DemoApplication instance= new DemoApplication();
             String result=instance.message();
-            String expected="{\"Message\":\"hello momomo!\"}";           
+            String expected="{\"Message\":\"hello 1\"}";           
              assertEquals(expected, result);
         }
 }
