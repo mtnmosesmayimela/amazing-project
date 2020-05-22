@@ -19,6 +19,6 @@ public class DemoApplication {
             produces = MediaType.APPLICATION_JSON_VALUE)
         public String message() {
 
-            return "{\"Message\":\"hello 11\"}";
+            return "{\"Message\":\"hello 12\"}";
         }
 }
